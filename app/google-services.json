@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247576657177",
+    "project_id": "expense2-51cc1",
+    "storage_bucket": "expense2-51cc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247576657177:android:c4750792e59e5fe5a25988",
+        "android_client_info": {
+          "package_name": "com.hcmus.group14.moneytor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247576657177-onmbi3rvum8fho0ku5ob4hm98nfpoi7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhzObiFAv7-AXCg6hB_555zW9JW7z6MNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247576657177-onmbi3rvum8fho0ku5ob4hm98nfpoi7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
